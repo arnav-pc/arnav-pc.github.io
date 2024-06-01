@@ -8,7 +8,8 @@
 
 - **Email:** webarnav@gmail.com
 - **LinkedIn Profile:** [linkedin.com/in/arnavsinghchauhan](https://www.linkedin.com/in/arnavsinghchauhan/)
-- **Website:** [arnav-pc.github.io](https://arnav-pc.github.io/)
+- **Website:** https://arnav-pc.github.io/
+
 ---
 
 ## Bio:
