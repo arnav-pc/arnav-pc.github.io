@@ -21,7 +21,7 @@ I'm an experienced Engineering Lead with a strong background in Computer Science
 
 - ### Engineering Lead, Privatecircle (2017 - Present)
   #### 2023 - 2024
-  - Migration on non-prod infrastructure to AWS for cost optimization. 
+  - Migration of non-prod infrastructure to AWS for cost optimization. 
   - Led the DevOps team and spearheaded major projects, including CDC implementation for event-driven data architecture, significantly optimizing data pipelines and reducing operational costs.
   - Pioneered the standardization of microservices development, introducing Kubernetes templates to streamline codebase creation and infrastructure setup.
   - Focused on engineering productivity, enhancing GitHub and Trello workflows to improve team efficiency.
@@ -41,6 +41,20 @@ I'm an experienced Engineering Lead with a strong background in Computer Science
   - Migrated the database from MySQL to Postgres, leading to improved performance and scalability.
   - Initiated leadership of a small engineering team, laying the groundwork for future team expansion and leadership responsibilities.
 
+  #### 20017 - 2019
+   
+  - Implemented code business logic to create company and investor profiles that are the main landing pages for the platform.
+  - Added full text search functionality across privatecircle platform using Elasticsearch.
+  - Created a fuzzy matching algorithm along with an internal tool for mapping data from various data sources to our platforms entities. 
+    Improved the algorithm using machine learning and ensemble of fuzzy algorithms that later grew to become an entity mastering process 
+    which is one of the core modules today.
+ 
+- ### Associate Data Scientist, Celebal Tech (2016 - 2017)
+  
+  - Natural language query interface (primarily English) over SQL databases using various NLP techniques. 
+  - Master Data Management Platform for Healthcare and Life Sciences organizations. The platform included tools such as data validations, 
+    mastering rule application and aata stewardship mechanism.
+  - Number Plate Detection System using CNN on real-time video streaming data using Caffe and TensorRT
 ---
 
 ## Education:
