@@ -15,7 +15,8 @@
 
 ## Bio:
 
-I'm an experienced Engineering Lead with a strong background in Computer Science. I specialize in backend and data engineering, software architecture, and leading high-performing engineering teams. I love developing scalable and efficient software solutions and strive for excellence in engineering leadership. Throughout my career, I've worked on creating and managing complex distributed systems, focusing on boosting engineering productivity and fostering innovation. I thrive in dynamic environments, taking ownership of products and promoting engineering best practices.
+Experienced Engineering Lead with a strong background in Computer Science, specializing in backend and data engineering, software architecture, and leading high-performing teams. Skilled in developing scalable software solutions and managing complex distributed systems. Focused on boosting productivity, fostering innovation, and promoting best practices in dynamic environments. 
+
 
 ## Experience:
 
