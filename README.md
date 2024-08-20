@@ -8,7 +8,7 @@
 ## Contact Information:
 
 - **Location:** Birmingham, United Kingdom  
-- **Phone**: +44 7479903741 | +91 9166138681 
+- **Phone:** +44 7479903741 | +91 9166138681 
 - **Email:** webarnav@gmail.com
 - **LinkedIn Profile:** [linkedin.com/in/arnavsinghchauhan](https://www.linkedin.com/in/arnavsinghchauhan/)
 - **Website:** https://arnav-pc.github.io/
@@ -20,6 +20,20 @@
 
 Experienced Engineering Lead with a strong background in Computer Science, specializing in backend and data engineering, software architecture, and leading high-performing teams. 
 
+--- 
+
+## Skills:
+- **Languages** - Python, Javascript and GoLang (beginner)
+- **Frameworks** - Django, FastAPI, Flask, Celery
+- **Datastores** - MongoDB, PostgreSQL, Elasticsearch, RabbitMQ, Redis, Kafka, ELK stack, S3, Glue, Athena
+- **Tools and Technologies** - Load balancers, HAProxy, Nginx, Uwsgi, Supervisor
+- **DevOps tools** - Ansible, Docker, Terraform, Kubernetes, Fabric, New relic, Prometheus, Grafana
+- **Management** - Team Leadership and Management, Technical Product Management
+- **AI and Machine learning** - Supervised Machine Learning, LLMs using Ollama and Hugging Face, MLOps using AWS and self-managed linode cloud
+- **Software Patterns** - Distributed Systems, Change Data Capture (CDC), Search Engines, RESTful Architecture
+- **Cloud and Version control** - Linode/AWS and Git
+
+---
 
 ## Experience:
 
@@ -54,19 +68,5 @@ Experienced Engineering Lead with a strong background in Computer Science, speci
 **B.Tech in Computer Science, RTU (2011-2015)**
 
 Specialized in web development, acquiring foundational and advanced knowledge in software engineering principles, web technologies, and development methodologies. This education laid the groundwork for a successful career in backend and data engineering, contributing to a strong technical expertise in various programming languages and database management systems.
-
----
-
-## Skills:
-- **Languages** - Python, Javascript and GoLang (beginner)
-- **Frameworks** - Django, FastAPI, Flask, Celery
-- **Datastores** - MongoDB, PostgreSQL, Elasticsearch, RabbitMQ, Redis, Kafka, ELK stack, S3, Glue, Athena
-- **Tools and Technologies** - Load balancers, HAProxy, Nginx, Uwsgi, Supervisor
-- **DevOps tools** - Ansible, Docker, Terraform, Kubernetes, Fabric, New relic, Prometheus, Grafana
-- **Management** - Team Leadership and Management, Technical Product Management
-- **AI and Machine learning** - Supervised Machine Learning, LLMs using Ollama and Hugging Face, MLOps using AWS and self-managed linode cloud
-- **Software Patterns** - Distributed Systems, Change Data Capture (CDC), Search Engines, RESTful Architecture
-- **Cloud and Version control** - Linode/AWS and Git
-
 
 ---
